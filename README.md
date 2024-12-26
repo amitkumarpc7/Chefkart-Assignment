@@ -2,6 +2,10 @@
 
 1. Clone the repository
 
+   ```bash
+   git clone https://github.com/amitkumarpc7/Chefkart-Assignment
+   ```
+
 2. Install dependencies:
    ```bash
    cd backend
